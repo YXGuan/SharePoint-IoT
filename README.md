@@ -1,7 +1,12 @@
 Reference: 
+
 Node Red HTTPS: https://www.youtube.com/watch?v=z9a_ztJqaII&t=681s
+
 Azure Linux VM and Putty SSH: https://www.youtube.com/watch?v=DzeZGUHWTk0
+
 Running on Microsoft Azure: https://nodered.org/docs/getting-started/azure
+
+To build your own SharePoint, you need a Microsoft Developer account: https://developer.microsoft.com/en-us/microsoft-365/dev-program
 
 
 Step 1. Go to your Node-Red location
